@@ -15,8 +15,8 @@
 - Specialist Doctors Profile
 - Admin Panel
 -Customer Panel
-Appointment Book
-Database
+-Appointment Book
+-Database
 
 
 # AFS-MART-Ecommerce-Site-
