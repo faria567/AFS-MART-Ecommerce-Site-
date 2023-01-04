@@ -11,7 +11,12 @@
 - Product Page 
 - Product Details Page with Image Zoom Effect
 - Cart Page
-- 
-- 
+- Blog Page
+- Specialist Doctors Profile
+- Admin Panel
+-Customer Panel
+Appointment Book
+Database
+
 
 # AFS-MART-Ecommerce-Site-
