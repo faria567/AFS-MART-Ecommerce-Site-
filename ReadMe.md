@@ -14,9 +14,10 @@
 - Blog Page
 - Specialist Doctors Profile
 - Admin Panel
--Customer Panel
--Appointment Book
--Database
+- Customer Panel
+- Appointment Book
+- Database
+
 
 
 # AFS-MART-Ecommerce-Site-
